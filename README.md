@@ -3,14 +3,20 @@ A sleek and responsive weather application that fetches real-time data using ext
 
 🚀 **Features**
 🌍 Real-time weather updates by location.
+
 🌡️ Temperature, conditions, and weather icons.
+
 📱 Responsive design for mobile and desktop.
+
 🔄 API integration with OpenWeatherMap.
 
 🧰 **Tech Stack**
 HTML
+
 CSS
+
 JavaScript
+
 Weather API
 
 📦 **Installation**
@@ -20,10 +26,14 @@ open index.html in your browser
 
 ⚙️ **Usage**
 Enter your city name and hit “Search.”
+
 View current weather details and icon.
+
 Responsive layout ensures usability on all devices.
 
 🧠 **Learning Objectives**
 DOM manipulation with JS
+
 Fetching external API data
+
 Building responsive layouts
